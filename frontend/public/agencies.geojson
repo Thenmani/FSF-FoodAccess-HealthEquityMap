@@ -1,0 +1,2810 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199010678333,
+          25.789604801877
+        ]
+      },
+      "properties": {
+        "name": "Lotus House",
+        "address": "217 NW 15th St. Miami FL 33136",
+        "type": "Shelter/Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.226949635733,
+          25.771604556487
+        ]
+      },
+      "properties": {
+        "name": "Miami Dade Community Services",
+        "address": "1901 SW 1st St Miami FL 33135",
+        "type": "Community Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.229823481516,
+          25.811328281184
+        ]
+      },
+      "properties": {
+        "name": "The Salvation Army Miami FP + SK",
+        "address": "1907 NW 38th St Miami FL 33142",
+        "type": "Non-profit/Shelter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.259326907243,
+          25.758163385327
+        ]
+      },
+      "properties": {
+        "name": "Central Christian Church",
+        "address": "222 Menores Ave Coral Gables FL 33134",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.261453765972,
+          25.771657594396
+        ]
+      },
+      "properties": {
+        "name": "Sunshine Community Group",
+        "address": "3990 West Flagler St Miami FL 33134",
+        "type": "Community Group"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.254141626814,
+          25.727678973238
+        ]
+      },
+      "properties": {
+        "name": "Grove Outreach",
+        "address": "3749 Grand Ave Miami FL 33133",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.192092814245,
+          25.829150407716
+        ]
+      },
+      "properties": {
+        "name": "First Inter. Haitian Church",
+        "address": "5832 NE 2nd Ave Miami FL 33137",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20733667083,
+          25.830743839712
+        ]
+      },
+      "properties": {
+        "name": "Curley's House",
+        "address": "6025 NW 6th Ct Miami FL 33127",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.201379281387,
+          25.836366904259
+        ]
+      },
+      "properties": {
+        "name": "St. Matthews Free Will Baptist Church",
+        "address": "6715 NW 2nd Ct Miami FL 33150",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.228321612366,
+          25.831649109336
+        ]
+      },
+      "properties": {
+        "name": "Remar USA",
+        "address": "1871 NW 62nd St Miami FL 33147",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.218096735867,
+          25.835724034455
+        ]
+      },
+      "properties": {
+        "name": "Rayfield Family Literacy - Miami",
+        "address": "1263 NW 67th St Miami FL 33147",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.196646372126,
+          25.840513631023
+        ]
+      },
+      "properties": {
+        "name": "First Haitian COG",
+        "address": "7140 N Miami Ave Miami FL 33150",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.263311026021,
+          25.812047563852
+        ]
+      },
+      "properties": {
+        "name": "Centro Comunitario AFE",
+        "address": "868 SE 12th St Hialeah FL 33010",
+        "type": "Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.194217252437,
+          25.84646102716
+        ]
+      },
+      "properties": {
+        "name": "Ephphatha Baptist Church",
+        "address": "157 NE 78th St Miami FL 33138",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.233657733734,
+          25.847062274446
+        ]
+      },
+      "properties": {
+        "name": "Glory Temple Ministry FP",
+        "address": "7950 NW 22nd Ave Miami FL 33147",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.277183332899,
+          25.82208432167
+        ]
+      },
+      "properties": {
+        "name": "Pilgrim's SDA",
+        "address": "110 Eucalyptus Dr Hialeah FL 33010",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30380890515,
+          25.756809975357
+        ]
+      },
+      "properties": {
+        "name": "Comunidad de Cristo",
+        "address": "1490 SW 67th Ave Miami FL 33144",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.254867351403,
+          25.845678160149
+        ]
+      },
+      "properties": {
+        "name": "Fountain of Life Apostolic Church",
+        "address": "3505 NW 79th St Miami FL 33147",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.420858212384,
+          26.414917474965
+        ]
+      },
+      "properties": {
+        "name": "NCEF-HH PATHWAYS CHILD CENTER",
+        "address": "415 Colorado Ave IMMOKALEE FL 34142",
+        "type": "Child Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.420585900582,
+          26.418989709805
+        ]
+      },
+      "properties": {
+        "name": "NCEF-HH RCMA",
+        "address": "123 N 4th St Immokalee FL 34142",
+        "type": "Child Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.420585900582,
+          26.418989709805
+        ]
+      },
+      "properties": {
+        "name": "LAKE TRAFFORD ELEMENTARY",
+        "address": "123 N 4th St Immokalee FL 34142",
+        "type": "School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.417607973551,
+          26.424905189349
+        ]
+      },
+      "properties": {
+        "name": "NCF Pediatric Health Center",
+        "address": "429 N First St. Immokalee FL 34142",
+        "type": "Health Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.425544336763,
+          26.415657367533
+        ]
+      },
+      "properties": {
+        "name": "GUADALUPE SOCIAL SERVICES",
+        "address": "211 S. 9th ST IMMOKALEE FL 34142",
+        "type": "Social Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.423199262057,
+          26.425790858426
+        ]
+      },
+      "properties": {
+        "name": "IMMOKALEE HIGH SCHOOL",
+        "address": "701 Immokalee Dr #5 IMMOKALEE FL 34142",
+        "type": "School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.425666354958,
+          26.423985590561
+        ]
+      },
+      "properties": {
+        "name": "IMMOKALEE MIDDLE SCHOOL",
+        "address": "401 N. 9th St. IMMOKALEE FL 34142",
+        "type": "School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.433749002204,
+          26.432966683417
+        ]
+      },
+      "properties": {
+        "name": "FELLOWSHIP CHURCH",
+        "address": "1411 Lake Trafford Rd Immokalee FL 34142",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31468246389,
+          25.862092194116
+        ]
+      },
+      "properties": {
+        "name": "Here's Help Workforce and Community Development",
+        "address": "4445 W 16 Ave, Suite 409 Hialeah FL 33012",
+        "type": "Community Development"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2008346471,
+          25.911946040983
+        ]
+      },
+      "properties": {
+        "name": "Life Care Outreach Ministry",
+        "address": "14899 Memorial Hwy Miami FL 33168",
+        "type": "Ministry/Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.235905394578,
+          25.908920375129
+        ]
+      },
+      "properties": {
+        "name": "Make A Wish Veterans",
+        "address": "2198 Ali Baba Ave Opa Locka FL 33054",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.359787669273,
+          25.743331290467
+        ]
+      },
+      "properties": {
+        "name": "Beth-el of the Nazarene",
+        "address": "2800 SW 102nd Ave Miami FL 33165",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.233577039387,
+          25.911916425082
+        ]
+      },
+      "properties": {
+        "name": "Mt. Tabor Ministries",
+        "address": "15050 Johnson St Opa Locka FL 33054",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.254437897925,
+          25.90594977119
+        ]
+      },
+      "properties": {
+        "name": "Opa Locka Sherbondy Community Center",
+        "address": "215 Perviz Ave Opa Locka FL 33054",
+        "type": "Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.168983024717,
+          25.916200572721
+        ]
+      },
+      "properties": {
+        "name": "Washington Park Community Center",
+        "address": "15290 NE 15th Ct North Miami Beach FL 33162",
+        "type": "Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.236161417822,
+          25.913101009372
+        ]
+      },
+      "properties": {
+        "name": "Mt. Zion AME Parking Lot",
+        "address": "15250 NW 22nd Ave Opa Locka FL 33054",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.237336826002,
+          25.913456956574
+        ]
+      },
+      "properties": {
+        "name": "OL Church Garden",
+        "address": "2261 NW 152 Terrace Opa Locka FL 33054",
+        "type": "Garden/Resource"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.237336826002,
+          25.913456956574
+        ]
+      },
+      "properties": {
+        "name": "Health in the Hood",
+        "address": "2261 NW 152nd Ter Opa Locka FL 33054",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.369438024735,
+          25.768388905932
+        ]
+      },
+      "properties": {
+        "name": "Nostrum Community Social Services Corp.",
+        "address": "10720 W Flagler Miami FL 33174",
+        "type": "Social Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.196871885256,
+          25.927357870792
+        ]
+      },
+      "properties": {
+        "name": "True Gospel",
+        "address": "171 NE 166th St North Miami Beach FL 33162",
+        "type": "Church/Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.242527725823,
+          25.923624177371
+        ]
+      },
+      "properties": {
+        "name": "Heart & Hand Outreach",
+        "address": "16405 NW 25th Ave Miami Gardens FL 33054",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.270335077443,
+          25.925847861213
+        ]
+      },
+      "properties": {
+        "name": "Iglesia Bautista Misionera",
+        "address": "4283 NW 167th St Miami Gardens FL 33055",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.291309496804,
+          25.917884464888
+        ]
+      },
+      "properties": {
+        "name": "Vida Abundante",
+        "address": "5601 NW 159th St Hialeah FL 33014",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.211960467285,
+          25.942318714186
+        ]
+      },
+      "properties": {
+        "name": "CARE Inc",
+        "address": "631 NW 183rd St Miami Gardens FL 33169",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.237122051462,
+          25.938839550291
+        ]
+      },
+      "properties": {
+        "name": "Miami Gardens FP",
+        "address": "18041 NW 22nd Ave Miami Gardens FL 33056",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.220806802214,
+          25.941946914759
+        ]
+      },
+      "properties": {
+        "name": "Norland SDA Church",
+        "address": "1175 NW 183rd St Miami Gardens FL 33169",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199661389648,
+          25.95003507597
+        ]
+      },
+      "properties": {
+        "name": "St. VDP Visitation",
+        "address": "100 NE 191st St Miami FL 33179",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.255950842025,
+          25.946037532497
+        ]
+      },
+      "properties": {
+        "name": "Gospel Tabernacle Church",
+        "address": "3311 NW 189th St Miami Gardens FL 33056",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.253698684851,
+          25.946090738872
+        ]
+      },
+      "properties": {
+        "name": "Maranatha SDA",
+        "address": "18900 NW 32nd Ave Miami Gardens FL 33056",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.186220806279,
+          25.964270661802
+        ]
+      },
+      "properties": {
+        "name": "Unify Christian Baptist",
+        "address": "1121 NE 205th Terr Miami FL 33179",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.353112305512,
+          25.613601092105
+        ]
+      },
+      "properties": {
+        "name": "Perrine - Emmanuel Apostolic Church",
+        "address": "16809 SW 100th Ave Miami FL 33157",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.353112305512,
+          25.613601092105
+        ]
+      },
+      "properties": {
+        "name": "Emmanuel Apostolic Church",
+        "address": "16809 SW 100th Ave Miami FL 33157",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37843765572,
+          25.896658547614
+        ]
+      },
+      "properties": {
+        "name": "Helping the Elderly",
+        "address": "10990 NW 138 St unit 19 Hialeah Gardens FL 33018",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.208723801339,
+          25.978503821087
+        ]
+      },
+      "properties": {
+        "name": "Emmanuel Apostolic Church",
+        "address": "6114 SW 35th Ct Miramar FL 33023",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.213538249293,
+          25.985777775085
+        ]
+      },
+      "properties": {
+        "name": "Emma Faith Global Community Outreach",
+        "address": "6337 SW 27th St Miramar FL 33023",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.368678801579,
+          25.59914271922
+        ]
+      },
+      "properties": {
+        "name": "True Deliverance Church",
+        "address": "18300 SW 109th Ave Cutler Bay FL 33157",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.366808515818,
+          25.593152332556
+        ]
+      },
+      "properties": {
+        "name": "Bridge to Hope",
+        "address": "10844 SW 188th St Cutler Bay FL 33157",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.342665084313,
+          25.574637004495
+        ]
+      },
+      "properties": {
+        "name": "Cornerstone Church Food Pantry",
+        "address": "20740 Old Cutler Rd Cutler Bay FL 33189",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.203227129537,
+          25.997458777158
+        ]
+      },
+      "properties": {
+        "name": "Harvest Time Church of Jesus Christ Apostolic",
+        "address": "5808 Mayo St Hollywood FL 33023",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199963941741,
+          25.998125303456
+        ]
+      },
+      "properties": {
+        "name": "Community Enhancement Collaboration",
+        "address": "5648 Wiley St Hollywood FL 33023",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.422815343078,
+          25.635200293386
+        ]
+      },
+      "properties": {
+        "name": "Matthew 25 Food Pantry",
+        "address": "14205 SW 142nd Ave Miami FL 33186",
+        "type": "Food Pantry/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.154391408023,
+          26.010887256265
+        ]
+      },
+      "properties": {
+        "name": "Faith & Life Fellowship Church",
+        "address": "121 S 24th Ave Hollywood FL 33020",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.210229843354,
+          26.013765995483
+        ]
+      },
+      "properties": {
+        "name": "Hermon Community Center",
+        "address": "6102 Fillmore St Hollywood FL 33024",
+        "type": "Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.153632262052,
+          26.013811285452
+        ]
+      },
+      "properties": {
+        "name": "Global Village Impact Pantry",
+        "address": "2349 Taylor St Hollywood FL 33020",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15572298555,
+          26.04017338
+        ]
+      },
+      "properties": {
+        "name": "L.E.S",
+        "address": "3220 N 24th Ave Hollywood FL 33020",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.234863065472,
+          26.04037928813
+        ]
+      },
+      "properties": {
+        "name": "Metropolitan Baptist Church",
+        "address": "7200 Davie Rd Ext Hollywood FL 33024",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.151837924854,
+          26.054600938322
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer SDA Church",
+        "address": "134 NW 12th Ave Dania Beach FL 33004",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.280241052803,
+          26.057808046392
+        ]
+      },
+      "properties": {
+        "name": "The Temple of St. Germaine",
+        "address": "5031 SW 100th Ave Cooper City FL 33328",
+        "type": "Church/Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.219128932851,
+          26.070998278722
+        ]
+      },
+      "properties": {
+        "name": "Davie Community Worship Center",
+        "address": "4140 SW 54th Ave Davie FL 33314",
+        "type": "Church/Worship Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.228337861662,
+          26.071868707659
+        ]
+      },
+      "properties": {
+        "name": "Tabernacle Christian Center Ministries",
+        "address": "4101 SW 61st Ave Davie FL 33314",
+        "type": "Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.438128607375,
+          25.50665988562
+        ]
+      },
+      "properties": {
+        "name": "Neighborhood Alliance Foundation",
+        "address": "15260 SW 280 St Homestead FL 33032",
+        "type": "Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.194354662295,
+          26.104603866464
+        ]
+      },
+      "properties": {
+        "name": "Sunset Presbyterian",
+        "address": "3550 Davie Blvd Ft. Lauderdale FL 33312",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.153110275924,
+          26.102956023057
+        ]
+      },
+      "properties": {
+        "name": "Sunshine Cathedral",
+        "address": "1480 SW 9th Ave Ft. Lauderdale FL 33315",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.409237731743,
+          25.477655805921
+        ]
+      },
+      "properties": {
+        "name": "Homestead Housing Authority South Dade",
+        "address": "31220 SW 134th Ave Homestead FL 33033",
+        "type": "Housing Authority"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.152191087008,
+          26.107308384939
+        ]
+      },
+      "properties": {
+        "name": "Ft. Lauderdale SDA Church",
+        "address": "850 SW 12th St Ft. Lauderdale FL 33311",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.450316771997,
+          25.495398634037
+        ]
+      },
+      "properties": {
+        "name": "Homestead Housing Authority Redlands",
+        "address": "29355 S Dixie Hwy Homestead FL 33033",
+        "type": "Housing Authority"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.178021138089,
+          26.116574656396
+        ]
+      },
+      "properties": {
+        "name": "Lighthouse SDA Church",
+        "address": "441 SW 27th Ave Ft. Lauderdale FL 33312",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.178083530799,
+          26.119719037789
+        ]
+      },
+      "properties": {
+        "name": "Seed Sowers Of Faith",
+        "address": "205 SW 27th Ave Ft. Lauderdale FL 33313",
+        "type": "Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.190666136791,
+          26.121326655547
+        ]
+      },
+      "properties": {
+        "name": "Life Net 4 Families",
+        "address": "1 NW 33rd Terrace Ft Lauderdale FL 33311",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.210155499831,
+          26.122748781735
+        ]
+      },
+      "properties": {
+        "name": "Sinai SDA Church",
+        "address": "201 NW 46th Ave Plantation FL 33317",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.477817098853,
+          25.506324531376
+        ]
+      },
+      "properties": {
+        "name": "Bridge to Hope - Homestead",
+        "address": "17700 SW 280 St Homestead FL 33031",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.427406120773,
+          26.061049749538
+        ]
+      },
+      "properties": {
+        "name": "Iglesia Cristiana Senales de Vida",
+        "address": "20850 Griffin Rd Southwest Ranches FL 33332",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.163778363042,
+          26.130090525213
+        ]
+      },
+      "properties": {
+        "name": "Mt. Olivet SDA Church",
+        "address": "649 NW 15th Way Ft. Lauderdale FL 33311",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.157420081979,
+          26.131935089435
+        ]
+      },
+      "properties": {
+        "name": "Arthur Hall Memorial",
+        "address": "744 NW 12th Ave Ft. Lauderdale FL 33311",
+        "type": "Memorial/Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.156774642159,
+          26.136405925369
+        ]
+      },
+      "properties": {
+        "name": "Prevention Central",
+        "address": "1100 W Sunrise Blvd Ft. Lauderdale FL 33311",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.183104878336,
+          26.139860696703
+        ]
+      },
+      "properties": {
+        "name": "A. J. WELLS MINISTRIES, INC.",
+        "address": "2920 NW 12TH STREET FORT LAUDERDALE FL 33311",
+        "type": "Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.493840989133,
+          25.497726639526
+        ]
+      },
+      "properties": {
+        "name": "Faith Church of the Redlands",
+        "address": "28945 SW 187th Ave Homestead FL 33030",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.204341116328,
+          26.140075203002
+        ]
+      },
+      "properties": {
+        "name": "Lauderhill SDA Church",
+        "address": "4100 NW 11th Ct Lauderhill FL 33313",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.181307241733,
+          26.141637950158
+        ]
+      },
+      "properties": {
+        "name": "Shekina French SDA Church",
+        "address": "2851 NW 13th St Ft. Lauderdale FL 33311",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.180821871359,
+          26.144443158227
+        ]
+      },
+      "properties": {
+        "name": "National Aid Foundation",
+        "address": "2821 NW 15th St Ft. Lauderdale FL 33311",
+        "type": "Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.204975110792,
+          26.146190180708
+        ]
+      },
+      "properties": {
+        "name": "Dare to Care dba The Faith Center",
+        "address": "4085 NW 16th St Lauderhill FL 33313",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.229881152624,
+          26.146026481445
+        ]
+      },
+      "properties": {
+        "name": "International Street Outreach",
+        "address": "5940 NW 16th Pl Sunrise FL 33313",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.482927728699,
+          25.46974010133
+        ]
+      },
+      "properties": {
+        "name": "Haitian Evangelical Baptist Church",
+        "address": "344 W Mowry Dr Homestead FL 33030",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.174840818903,
+          26.158331866486
+        ]
+      },
+      "properties": {
+        "name": "Harris Chapel Inc.",
+        "address": "2351 NW 26th St Oakland Park FL 33311",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.492551418525,
+          25.466014048727
+        ]
+      },
+      "properties": {
+        "name": "Touching Miami with Love: West Homestead",
+        "address": "1350 SW 4th St Homestead FL 33030",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.180986040574,
+          26.165261235881
+        ]
+      },
+      "properties": {
+        "name": "Deliverance Reunited",
+        "address": "2800 Oakland Park Blvd Oakland Park FL 33311",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.206792243343,
+          26.164949428709
+        ]
+      },
+      "properties": {
+        "name": "All Nations New Testament Food Pantry",
+        "address": "4351 W Oakland Park Blvd Lauderdale Lakes FL 33313",
+        "type": "Food Pantry/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.252411671258,
+          26.166463964628
+        ]
+      },
+      "properties": {
+        "name": "Church of God of Prophecy - Sunrise",
+        "address": "7730 W Oakland Park Blvd Sunrise FL 33351",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.123915840031,
+          26.167140121137
+        ]
+      },
+      "properties": {
+        "name": "Blessed Sacrament",
+        "address": "1701 E Oakland Park Blvd Oakland Park FL 33334",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.203129972605,
+          26.172954675868
+        ]
+      },
+      "properties": {
+        "name": "Merrell UMC",
+        "address": "3900 N SR 7 Lauderdale Lakes FL 33319",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.287468126763,
+          26.180786188406
+        ]
+      },
+      "properties": {
+        "name": "Jubilee of Praise",
+        "address": "4505 NW 103rd Ave Sunrise FL 33351",
+        "type": "Church/Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.187841253269,
+          26.19489567323
+        ]
+      },
+      "properties": {
+        "name": "Expecting Relief - Ft. Lauderdale",
+        "address": "3000 W Prospect Rd Ft. Lauderdale FL 33309",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.245253654135,
+          26.209222500338
+        ]
+      },
+      "properties": {
+        "name": "Eglise de Dieu de Deliverance",
+        "address": "6901 NW 70th Ave Tamarac FL 33321",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.142483781409,
+          26.226491447687
+        ]
+      },
+      "properties": {
+        "name": "ICNA Relief Food Pantry",
+        "address": "1450 SW 3rd St Unit A-11 Pompano Beach FL 33069",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.144654577144,
+          26.235977194016
+        ]
+      },
+      "properties": {
+        "name": "Thomas Temple COGIC",
+        "address": "516 NW 16th Ave Pompano Beach FL 33069",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.133447227459,
+          26.238519749716
+        ]
+      },
+      "properties": {
+        "name": "Mount Calvary Baptist Church",
+        "address": "800 NW 8th Ave Pompano Beach FL 33060",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.211872685278,
+          26.250172489283
+        ]
+      },
+      "properties": {
+        "name": "Cokesbury UMC",
+        "address": "1801 NW 65th Ave Margate FL 33063",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23538915684,
+          26.269496590759
+        ]
+      },
+      "properties": {
+        "name": "Living Word Christian Center",
+        "address": "3301 Riverside drive Coral springs FL 33065",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.108028959957,
+          26.271844481529
+        ]
+      },
+      "properties": {
+        "name": "First Brazilian Baptist",
+        "address": "1103 NE 33rd St Pompano Beach FL 33064",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.122831515286,
+          26.285079222004
+        ]
+      },
+      "properties": {
+        "name": "Blessing Food Pantry and Soup Kitchen",
+        "address": "100 NE 44th St Pompano Beach FL 33064",
+        "type": "Food Pantry/Soup Kitchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.11781195404,
+          26.234451400463
+        ]
+      },
+      "properties": {
+        "name": "Homeless Hearts",
+        "address": "310 NE 6Ave Pompano Beach FL 33060",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095647194911,
+          26.305967187758
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Beach Community Cares/Nina's Place",
+        "address": "959 SE 6th Ave Deerfield Beach FL 33441",
+        "type": "Community/Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.104254763395,
+          26.318788469618
+        ]
+      },
+      "properties": {
+        "name": "Christmas of Hope",
+        "address": "161 W Hillsboro Blvd Deerfield Beach FL 33441",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.103774193589,
+          26.321899672813
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Beach SDA Church",
+        "address": "350 NW 1st Ter Deerfield Beach FL 33441",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09380729203,
+          26.361931400942
+        ]
+      },
+      "properties": {
+        "name": "Church of All Nations",
+        "address": "1300 NW 4th Ave Boca Raton FL 33432",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.087320853077,
+          26.363300793181
+        ]
+      },
+      "properties": {
+        "name": "Boca Helpings Hands - SK & FP",
+        "address": "1500 NW 1st Ct Boca Raton FL 33432",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.382872277354,
+          25.161071423934
+        ]
+      },
+      "properties": {
+        "name": "SOS at St Justin's FP",
+        "address": "105500 Overseas Hwy Key Largo FL 33037",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.064229923762,
+          26.528972522441
+        ]
+      },
+      "properties": {
+        "name": "Boca Helping Hands - Boynton Beach",
+        "address": "301 N Seacrest Blvd Boynton Beach FL 33435",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.064222364893,
+          26.534627355719
+        ]
+      },
+      "properties": {
+        "name": "St. John Communty Promise",
+        "address": "900 N Seacrest Blvd Boynton Beach FL 33435",
+        "type": "Community/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.510815038927,
+          25.018998681124
+        ]
+      },
+      "properties": {
+        "name": "Burton Memorial UMC",
+        "address": "93001 Overseas Hwy Tavernier FL 33070",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.158401852234,
+          26.590025578799
+        ]
+      },
+      "properties": {
+        "name": "Keyi Nanm Inc",
+        "address": "7145 Lantana Road Lake Worth FL 33467",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.074971801868,
+          26.587389870815
+        ]
+      },
+      "properties": {
+        "name": "Boca Helping Hands - Lake Worth",
+        "address": "2116 Lantana Rd Lake Worth FL 33462",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.144855554851,
+          26.608051650489
+        ]
+      },
+      "properties": {
+        "name": "Ministerio Cristiano La Gloria Postrera",
+        "address": "6426 Melaleuca Ln Greenacres FL 33463",
+        "type": "Ministry/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.064642114427,
+          26.602383389247
+        ]
+      },
+      "properties": {
+        "name": "New Apostolic Church",
+        "address": "1132 S B St Lake Worth FL 33460",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.138573325106,
+          26.619092412987
+        ]
+      },
+      "properties": {
+        "name": "Pentecostal Tabernacle of WPB",
+        "address": "6024 Lake Worth Rd Greenacres FL 33463",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.105164095091,
+          26.622192125557
+        ]
+      },
+      "properties": {
+        "name": "Holy Redeemer Episcopal Church",
+        "address": "3730 Kirk Rd Lake Worth FL 33461",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.073596862141,
+          26.620142183256
+        ]
+      },
+      "properties": {
+        "name": "Feeding The Hungry - Cypress Drive",
+        "address": "300 Cypress Dr Lake Worth FL 33461",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.060098780181,
+          26.624187008108
+        ]
+      },
+      "properties": {
+        "name": "Iglesia De Dios Puerta Del Cielo",
+        "address": "713 N F St Lake Worth FL 33460",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07869894051,
+          26.628251320362
+        ]
+      },
+      "properties": {
+        "name": "Temple de la Restoration LW",
+        "address": "2417 10th Ave N Lake Worth FL 33461",
+        "type": "Church/Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.057567030617,
+          26.63191583206
+        ]
+      },
+      "properties": {
+        "name": "Farmworker Coordinating Council - Lake Worth",
+        "address": "1123 Crestwood Blvd Lake Worth FL 33460",
+        "type": "Social Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.061546857272,
+          26.639421130094
+        ]
+      },
+      "properties": {
+        "name": "Peniel Neighborhood Pantry",
+        "address": "2000 N D St Lake Worth FL 33460",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.113334677791,
+          26.651726907316
+        ]
+      },
+      "properties": {
+        "name": "Victory Feeding the Hungry",
+        "address": "4601 Forest Hill Blvd West Palm Beach FL 33415",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.140402647304,
+          26.654141245681
+        ]
+      },
+      "properties": {
+        "name": "Feeding The Hungry - WPB",
+        "address": "1651 62nd Ave S West Palm Beach FL 33415",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.140896424377,
+          26.663420637328
+        ]
+      },
+      "properties": {
+        "name": "First SDA Church",
+        "address": "6300 Summit Blvd West Palm Beach FL 33415",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.088237786663,
+          26.664745148176
+        ]
+      },
+      "properties": {
+        "name": "Cidra Church Ministry Barak Rabah",
+        "address": "865 S Congress Ave Palm Springs FL 33406",
+        "type": "Church/Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.142431230745,
+          26.681101379484
+        ]
+      },
+      "properties": {
+        "name": "Bethany Baptist",
+        "address": "6353 Wallis Rd West Palm Beach FL 33411",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.058558779882,
+          26.689457767884
+        ]
+      },
+      "properties": {
+        "name": "HACER",
+        "address": "2727 Georgia Ave West Palm Beach FL 33405",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.062368111229,
+          26.696245157275
+        ]
+      },
+      "properties": {
+        "name": "United Haitian Baptist Church",
+        "address": "2015 Parker Ave West Palm Beach FL 33401",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.642588801863,
+          24.911653112968
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Islamorada",
+        "address": "81201 Overseas Hwy Islamorada FL 33036",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.266806529617,
+          26.706520772332
+        ]
+      },
+      "properties": {
+        "name": "Hope in Action - West 33168",
+        "address": "14055 Okeechobee Blvd Loxahatchee FL 33470",
+        "type": "Outreach/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.096654199215,
+          26.716089569603
+        ]
+      },
+      "properties": {
+        "name": "Feed the Hungry Pantry of PBC",
+        "address": "900 Brandywine Rd West Palm Beach FL 33409",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.057545799727,
+          26.718876643279
+        ]
+      },
+      "properties": {
+        "name": "True Fast Ministry Outreach",
+        "address": "638 6th Street West Palm Beach FL 33401",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.118716454452,
+          26.725597373092
+        ]
+      },
+      "properties": {
+        "name": "More Than Conquerors",
+        "address": "3275 N Haverhill Rd West Palm Beach FL 33417",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.059424864081,
+          26.721719774742
+        ]
+      },
+      "properties": {
+        "name": "Payne Chapel Development Inc",
+        "address": "801 9th St West Palm Beach FL 33401",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.060750291003,
+          26.721749243125
+        ]
+      },
+      "properties": {
+        "name": "New Bethel Church",
+        "address": "911 9th St West Palm Beach FL 33401",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.056024898021,
+          26.730041725846
+        ]
+      },
+      "properties": {
+        "name": "Feast of the Lord",
+        "address": "523 18th ST West Palm Beach FL 33407",
+        "type": "Outreach/Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.053010321052,
+          26.732380818819
+        ]
+      },
+      "properties": {
+        "name": "St. Ann's Place Outreach Center",
+        "address": "2107 North Dixie Highway West Palm Beach FL 33407",
+        "type": "Outreach Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05459187465,
+          26.748473659323
+        ]
+      },
+      "properties": {
+        "name": "Northwood United Methodist Church",
+        "address": "4015 Spruce Ave West Palm Beach FL 33407",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.084655965033,
+          26.756074412502
+        ]
+      },
+      "properties": {
+        "name": "Redemptive Life",
+        "address": "4431 Embarcadero Dr West Palm Beach FL 33407",
+        "type": "Outreach/Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.075578994889,
+          26.759154359756
+        ]
+      },
+      "properties": {
+        "name": "Liberty Movement",
+        "address": "1301 53 St West Palm Beach FL 33407",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.656677970428,
+          26.680515761203
+        ]
+      },
+      "properties": {
+        "name": "12th Street COGOP",
+        "address": "601 SE 12th St Belle Glade FL 33430",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.070567141143,
+          26.768126814953
+        ]
+      },
+      "properties": {
+        "name": "Riviera Beach Community Outreach",
+        "address": "1144 West 6th St Riviera Beach FL 33404",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.718152460858,
+          26.664030805478
+        ]
+      },
+      "properties": {
+        "name": "The Jack Brewer Foundation",
+        "address": "625 Palm Beach Road South Bay FL 33493",
+        "type": "Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.721869872113,
+          26.662642189981
+        ]
+      },
+      "properties": {
+        "name": "South Bay- Mt Calvary Baptist Church",
+        "address": "180 SW 10th Ave South Bay FL 33493",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.673816629856,
+          26.6844893915
+        ]
+      },
+      "properties": {
+        "name": "Dot & Ruby Helping Hand",
+        "address": "227 SW 6th St Belle Glade FL 33430",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.670198042623,
+          26.685811529291
+        ]
+      },
+      "properties": {
+        "name": "Farmworker Coordinating Council - Belle Glade",
+        "address": "233 W Ave A Belle Glade FL 33430",
+        "type": "Social Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.074418945187,
+          26.790695715748
+        ]
+      },
+      "properties": {
+        "name": "Faith Deliverance- Riviera Beach",
+        "address": "3437 Ave O Riviera Beach FL 33404",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.074418945187,
+          26.790695715748
+        ]
+      },
+      "properties": {
+        "name": "Faith Deliverance Church/Feeding Hope Village Inc.",
+        "address": "3437 Avenue O Riviera Beach FL 33404",
+        "type": "Church/Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.384684626439,
+          25.857348710179
+        ]
+      },
+      "properties": {
+        "name": "EVERGLADES COMMUNITY FOOD PANTRY",
+        "address": "101 S. COPELAND AVE EVERGLADES CITY FL 34139",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.654775386736,
+          26.830490422442
+        ]
+      },
+      "properties": {
+        "name": "St. Mary's Catholic Church",
+        "address": "1200 E Main St Pahokee FL 33476",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.077689580434,
+          26.933973219194
+        ]
+      },
+      "properties": {
+        "name": "First United Methodist Church Jupiter",
+        "address": "815 E Indiantown Road Jupiter FL 33477",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.913569557978,
+          26.753175512679
+        ]
+      },
+      "properties": {
+        "name": "COMPASSION AVENUE, INC.",
+        "address": "370 HOLIDAY ISLES CLEWISTON FL 33440",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.948753207276,
+          26.737278004396
+        ]
+      },
+      "properties": {
+        "name": "JOSEPH PROJECT 863 INC",
+        "address": "944 HARLEM ACADEMY AVE CLEWISTON FL 33440",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.935265702922,
+          26.747246706834
+        ]
+      },
+      "properties": {
+        "name": "FEEDING WITH HOPE",
+        "address": "217 East Aztec Avenue CLEWISTON FL 33440",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.922502641588,
+          26.743373827238
+        ]
+      },
+      "properties": {
+        "name": "Clewiston High School",
+        "address": "1501 S. Francisco St. Clewiston FL 33440",
+        "type": "School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.932198911997,
+          26.754749028512
+        ]
+      },
+      "properties": {
+        "name": "CATHOLIC CHARITIES OF HENDRY/GLADES",
+        "address": "204 N Deanne Duff Clewiston FL 33440",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.117708106418,
+          26.628162017518
+        ]
+      },
+      "properties": {
+        "name": "SERVING WITH LOVE MINISTRIES",
+        "address": "330 S. ESTRIBO ST. CLEWISTON FL 33440",
+        "type": "Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11170764794,
+          26.639929526282
+        ]
+      },
+      "properties": {
+        "name": "IGLESIA CASA DE LIBERACION",
+        "address": "225 N Hacienda St Clewiston FL 33440",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.388535954231,
+          26.405617180857
+        ]
+      },
+      "properties": {
+        "name": "Farm Workers Village",
+        "address": "Farm Worker Way & Bell Circle Immokalee FL 34142",
+        "type": "Residential Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.301893001311,
+          25.739343200657
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer Spanish SDA Church",
+        "address": "6566 SW 33rd St Miami FL 33155",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.285989884921,
+          25.821009578201
+        ]
+      },
+      "properties": {
+        "name": "Buddy System",
+        "address": "301 Westward Dr Miami FL 33166",
+        "type": "Non-profit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.209817101672,
+          25.868162896268
+        ]
+      },
+      "properties": {
+        "name": "Bethsaida SDA Church",
+        "address": "10185 NW 7th Ave Miami FL 33150",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.238211337164,
+          25.863831083261
+        ]
+      },
+      "properties": {
+        "name": "Bible Baptist Church",
+        "address": "9801 NW 24th Ave Miami FL 33147",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.211587990297,
+          25.871942611549
+        ]
+      },
+      "properties": {
+        "name": "New Revelation Church",
+        "address": "777 NW 106th St Miami FL 33150",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.212333956493,
+          25.876454276592
+        ]
+      },
+      "properties": {
+        "name": "Unity Pentecostal COG",
+        "address": "801 NW 111th St North Miami FL 33168",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.211627777537,
+          25.876485163152
+        ]
+      },
+      "properties": {
+        "name": "Faithful Deliverance Temple",
+        "address": "769 NW 111th St Miami FL 33168",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.218746150631,
+          25.876193571231
+        ]
+      },
+      "properties": {
+        "name": "Allen Chapel AME Church",
+        "address": "1201 NW 111th St Miami FL 33167",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.218478381572,
+          25.87694733907
+        ]
+      },
+      "properties": {
+        "name": "Pinewood Garden",
+        "address": "1201 NW 112th St Miami FL 33167",
+        "type": "Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.210547363359,
+          25.881593369008
+        ]
+      },
+      "properties": {
+        "name": "Mispa Missionary Community Church",
+        "address": "11648 NW 7th Ave Miami FL 33168",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22755100429,
+          25.879475999233
+        ]
+      },
+      "properties": {
+        "name": "Iglesia de Dios Pent",
+        "address": "1751 NW 115th St Miami FL 33167",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.218760772263,
+          25.888025913641
+        ]
+      },
+      "properties": {
+        "name": "N. Miami Church of Nazarene",
+        "address": "1195 NW 124th St North Miami FL 33168",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199426161069,
+          25.905673789633
+        ]
+      },
+      "properties": {
+        "name": "Daphne Duggan Agency",
+        "address": "14250 N Miami Ave Miami FL 33168",
+        "type": "Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.210864111812,
+          25.890909637252
+        ]
+      },
+      "properties": {
+        "name": "Good News Food Pantry",
+        "address": "12695 NW 7th Ave North Miami FL 33168",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3371238131,
+          25.754950924625
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Coral Park",
+        "address": "8755 SW 16th St Miami FL 33165",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.182688928727,
+          25.895247614616
+        ]
+      },
+      "properties": {
+        "name": "Beree SDA Church",
+        "address": "13018 NE 8th ave North Miami FL 33161",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3223733071,
+          25.83215038743
+        ]
+      },
+      "properties": {
+        "name": "Bezerra de Menezes Food Pantry",
+        "address": "6450 NW 77th Ct Miami FL 33166",
+        "type": "Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.199426161069,
+          25.905673789633
+        ]
+      },
+      "properties": {
+        "name": "N. Miami Ave COG",
+        "address": "14250 N Miami Ave Miami FL 33168",
+        "type": "Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.333988619865,
+          25.828835971968
+        ]
+      },
+      "properties": {
+        "name": "Centro Comunitario AFE Miami",
+        "address": "6090 NW 84th Ave Miami FL 33166",
+        "type": "Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.263999995701,
+          25.896459976477
+        ]
+      },
+      "properties": {
+        "name": "Ministerio Renuevo",
+        "address": "4100 NW 135th St -unidad 1-A Opa Locka FL 33054",
+        "type": "Ministry"
+      }
+    }
+  ]
+}
