@@ -29,7 +29,7 @@ MAX_ACS_YEAR = 2025
 app.add_middleware(
     CORSMiddleware,
     # Any localhost/127.0.0.1 port (local dev on any Vite port) + Vercel deploys.
-    allow_origin_regex=r"https://.*\.vercel\.app|http://(localhost|127\.0\.0\.1):\d+",
+    allow_origin_regex=r"https://.*\.vercel\.app|https://.*\.web\.app|https://.*\.firebaseapp\.com|http://(localhost|127\.0\.0\.1):\d+",
     allow_methods=["*"],
     allow_headers=["*"],
 )
