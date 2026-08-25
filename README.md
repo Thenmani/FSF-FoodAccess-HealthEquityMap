@@ -2,7 +2,7 @@
 
 A full-stack web application that provides data-driven food access intelligence for Feeding South Florida (FSF), enabling program managers to visualize community need, track food distribution accomplishments, and identify coverage gaps across three South Florida counties.
 
-**🔗 Live Demo:** [aiforgoodcause-healthequitymap.web.app](https://aiforgoodcause-healthequitymap.web.app)
+**🔗 Live URL:** [aiforgoodcause-healthequitymap.web.app](https://aiforgoodcause-healthequitymap.web.app)
 **🔧 API:** [fsf-backend-792729780660.us-east1.run.app/docs](https://fsf-backend-792729780660.us-east1.run.app/docs)
 
 Deployed on **Google Cloud** — Firebase Hosting (frontend) + Cloud Run (backend) + Cloud SQL/Postgres (database). See [Deployment](#deployment) below.
